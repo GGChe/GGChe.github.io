@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GGChe"
+title                    : "Gabriel Galeote-Checa"
 title_separator          : "-"
 name                     : &name "Gabriel Galeote Checa"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "GGChe"
+  name             : "Gabriel Galeote-Checa"
   avatar           : "profile.png"
-  bio              : "Electronics Engineer & PhD Candidate"
+  bio              : "Digital Signal Processing engineer & PhD Candidate"
   location         : "Spain"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.es/citations?user=Dlw64dUAAAAJ&hl=es"
-  email            : "ggaleotecheca@gmail.com"
+  email            : "ggaleote@ieee.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

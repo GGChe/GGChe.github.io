@@ -18,44 +18,27 @@ Education
 Work experience
 ======
 
-* Feb. 2020 - Present:  System Applications Engineer, Analog Devices Inc.
-  * Design and development of tests for Firmware verification for a Medical Device.
-  * Firmware development on RTOS mbed OS.
-  * Electronics Schematics and layout analysis.
-  * Build and maintain hardware test benches for automated firmware verification using pytest framework.
-  * Execute, analyze, report, and track reports on Jenkins.
-  * Agile methodologies: Jira, DSM, scrum
-  * Continuous integration: SVN, GIT
-  * RTOS, 32-bit ARM® Cortex™-M4
+* Feb. 2021 - Present: Signal Processing Engineer, Analog Devices Inc., Valencia, Spain 
+  * Developed real-time detection algorithms for ECG pathologies on an ambulatory device, with additional work on cloud computing algorithms.
+  * Analyzed product requirements and specifications in compliance with IEC medical device standards for FDA.
+  * Contributed to the Firmware Development Team, designing and developing firmware and tests for a Medical Product on RTOS, 32-bit ARM Cortex-M4, and Cortex M-11.
+  * Contributed to electronics schematics, layout analysis, and hardware test benches using the pytest framework.
+  * Implemented continuous integration with  GIT, and followed agile methodologies (Jira, DSM, scrum).
 
-* Sep. 2020 - Feb. 2021: R&D Engineer in Neuromorphic Computing Laboratory at Spanish National Centre of Microelectronics, Institute of Microelectronics of Seville (IMSE-CNM).
-  Responsabilities:
-  * Research tasks related to Hybrid Enhanced Regenerative Medicine Systems (HERMES) project designing and testing of integrated circuits for brain bioimplantable device.
-  * Design of digital signal processing architectures (PYthon/C) for microelectrode array devices using DSP processor.
-  * Design of analog and mixed-signal integrated circuits in CMOS technologies
+* Sep. 2020 - Feb. 2021: R&D Engineer, Spanish National Centre of Microelectronics, Seville, Spain
+  * Conducted research tasks for the HERMES project, designing and testing integrated circuits for brain bioimplantable devices.
+  * Designed digital signal processing architectures (Python/C) for microelectrode array devices using DSP processors.
+  * Developed analog and mixed-signal integrated circuits in CMOS technologies.
 
-* Jan. 2020 - Jul. 2020 : Research Assistant at Life Supporting Technologies at Technical University of Madrid.
-  * European projects writing and management.
-  * Electronics supportive tasks on the department.
-  * Development of IoT and WoT architectures on STM32 Cortex-M4 and Raspberry Pi
+* Jan. 2020 - Sep. 2020: R&D Engineer and Project Manager, Polytechnic University of Madrid, Madrid, Spain
+  * Managed European project proposal documentation and oversaw electronic design tasks.
+  * Developed IoT and WoT architectures on STM32 Cortex-M4 and Raspberry Pi.
 
-* April 2019 - Dec. 2019 : Research Scholar at Microelectronics Laboratory (MeLab) at UofG.
-  * Design and Fabrication of a bioelectronic brain implantable device for treating epilepsy for the HERMES European  project. 
+* Apr. 2019 - Jan. 2020: Research Assistant, Microelectronics Laboratory (MeLab), University of Glasgow, Glasgow, United Kingdom
+  * Designed and fabricated a bioelectronic brain implantable device for treating epilepsy for the FET-Proact HERMES European project.
   * Published 2 conference papers (ICECS 2019 and ISCAS 2021) and one journal paper (Advanced Science).
-  * Design of RF electromagnetic wireless power transfer system on HFSS and EAGLE. 
-  * Fabrication of flexible and stretchable circuits on Dupont Pyralux AP8535R. Use of automatic PCB printing with Voltera Machine and developed protocols of use.
-
-  
-Skills
-======
-| Coding   | Design   | Electronics   | Language   | Others |
-| **Python**   | Eagle   | SMT   | Spanish   | Latex |
-| **C/C++**   | Altium   | Flip chip (BGA)   | English   | Adobe Premiere, Illustrator, Pro. |
-| Matlab   | Kicad   | ARM   | German   | cell3 |
-| VHDL   | SolidWorks   | Raspberry Pi, Arduino | Korean | cell3 |
-| Verilog   | AutoCAD   | STM32   | French | cell3 |
-| VHDL   |    |  | RTOS  |   |
-
+  * Designed RF electromagnetic wireless power transfer system on HFSS and EAGLE.
+  * Fabricated flexible and stretchable circuits on Dupont Pyralux AP8535R using automatic PCB printing with Voltera Machine.
 
 
 Publications
