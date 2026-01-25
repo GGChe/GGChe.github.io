@@ -1,7 +1,7 @@
 ---
 title: "The Future of Neuroscience: Flexible and Wireless Implantable Neural Electronics"
 collection: publications
-permalink: /publication/GGaleote2019
+permalink: /publication/GGaleote2020
 excerpt: 
 date: 2021-03-09
 venue: 'Advanced Science'
