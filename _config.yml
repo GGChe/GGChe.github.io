@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Gabriel Galeote-Checa"
 title_separator          : "-"
 name                     : &name "Gabriel Galeote Checa"
-description              : &description "personal description"
+description              : &description "Senior Signal Processing and Algorithms Engineer & Ph.D. — bioelectronics, neural implants, and ECG signal processing."
 url                      : https://GGChe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "GGChe/GGChe.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Gabriel Galeote-Checa"
   avatar           : "profile.png"
-  bio              : "Digital Signal Processing engineer & PhD Candidate"
+  bio              : "Senior Signal Processing & Algorithms Engineer, Ph.D."
   location         : "Spain"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.es/citations?user=Dlw64dUAAAAJ&hl=es"
   email            : "ggaleote@ieee.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -93,7 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : 
+  flickr           :
   facebook         :
   foursquare       :
   github           : "GGChe"
@@ -241,7 +241,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Madrid # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

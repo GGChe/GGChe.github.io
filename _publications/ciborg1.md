@@ -8,4 +8,4 @@ venue: 'Ariel-Revista de filosofía, 22, 23-29'
 ---
 Philosophical analysis of the biohackers communities and the social implications on the human enhancement technologies and regulation.
 
-[Download paper here](http://ggche.github.io/files/ciborg1.pdf)
+[Download paper here](/files/ciborg1.pdf)
