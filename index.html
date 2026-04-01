@@ -323,6 +323,32 @@
           <div class="tile">
             <div class="tile is-parent">
               <article class="tile is-child notification">
+                <p class="title">FIR Filter &mdash; Adder Tree</p>
+                <figure class="image is-4by3">
+                  <img class="modal-trigger" data-target="project-4-modal" src="img/portfolio/fir_architecture.svg">
+                </figure>
+              </article>
+            </div>
+            <div class="tile is-parent">
+              <article class="tile is-child notification">
+                <p class="title">Neural Time-Series Segmentation</p>
+                <figure class="image is-4by3">
+                  <img class="modal-trigger" data-target="project-5-modal" src="img/portfolio/neural_asic.png">
+                </figure>
+              </article>
+            </div>
+            <div class="tile is-parent">
+              <article class="tile is-child notification">
+                <p class="title">Non-Linear Signal Operators</p>
+                <figure class="image is-4by3">
+                  <img class="modal-trigger" data-target="project-6-modal" src="img/portfolio/operators.svg">
+                </figure>
+              </article>
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tile is-parent">
+              <article class="tile is-child notification">
                 <p class="title">Portable ECG with Arduino</p>
                 <figure class="image is-4by3">
                   <img class="modal-trigger" data-target="project-1-modal" src="img/portfolio/ecg.png">
@@ -578,6 +604,126 @@
             <span class="tag">Python</span>
             <span class="tag">Bioelectronics</span>
             <span class="tag">RF</span>
+          </div>
+        </div>
+      </section>
+      <footer class="modal-card-foot">
+        <button class="button is-success">Close</button>
+      </footer>
+    </div>
+  </div>
+
+  <!-- Project 4 Modal: FIR Filter Adder Tree -->
+  <div id="project-4-modal" class="modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+      <header class="modal-card-head">
+        <p class="modal-card-title">FIR Filter &mdash; Adder Tree Optimization</p>
+        <button class="delete" aria-label="close"></button>
+      </header>
+      <section class="modal-card-body">
+        <div id="project-4-modal-carousel" class="carousel">
+          <figure class="image is-4by3 carousel-cell">
+            <img src="img/portfolio/fir_architecture.svg">
+          </figure>
+          <figure class="image is-4by3 carousel-cell">
+            <img src="img/portfolio/fir_test.png">
+          </figure>
+          <figure class="image is-4by3 carousel-cell">
+            <img src="img/portfolio/fir_asic.png">
+          </figure>
+        </div>
+        <div class="content">
+          <p>RTL implementation and verification environment for an optimized FIR filter architecture targeting low-power and efficient VLSI designs. The project focuses on optimizing a classic FIR filter using adder-tree based accumulation, pipelining, and area-aware design decisions.</p>
+          <p>Key features include a <strong>balanced adder tree</strong> reducing the critical path by summing partial products in a log-depth tree, <strong>inferred clock gating</strong> for reduced switching activity and dynamic power, and an <strong>optimized 10-cycle latency</strong> (down from 16) with full pipelining.</p>
+          <p>The design is compatible with Icarus Verilog, Verilator, standard synthesis flows, and ASIC synthesis via the Librelane flow targeting SkyWater 130nm.</p>
+          <p><a href="https://github.com/GGChe/fir-filter-adder-tree" target="_blank">View on GitHub</a></p>
+          <div class="tags">
+            <span class="tag">Verilog</span>
+            <span class="tag">FIR Filter</span>
+            <span class="tag">VLSI</span>
+            <span class="tag">Adder Tree</span>
+            <span class="tag">SkyWater 130nm</span>
+            <span class="tag">Cocotb</span>
+            <span class="tag">Python</span>
+          </div>
+        </div>
+      </section>
+      <footer class="modal-card-foot">
+        <button class="button is-success">Close</button>
+      </footer>
+    </div>
+  </div>
+
+  <!-- Project 5 Modal: Neural Time-Series Segmentation -->
+  <div id="project-5-modal" class="modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+      <header class="modal-card-head">
+        <p class="modal-card-title">Neural Time-Series Segmentation</p>
+        <button class="delete" aria-label="close"></button>
+      </header>
+      <section class="modal-card-body">
+        <div id="project-5-modal-carousel" class="carousel">
+          <figure class="image is-4by3 carousel-cell">
+            <img src="img/portfolio/neural_asic.png">
+          </figure>
+        </div>
+        <div class="content">
+          <p>Verilog implementation of an efficient, on-device spike detection and time-series segmentation system for high-density neural implants. Designed for low-latency, low-power operation suitable for implantable hardware.</p>
+          <p>The core logic implements a lightweight algorithm for detecting epileptic spikes in multichannel neural recordings. Key components include hardware <strong>feature extractors</strong> (NEO, ABS, ASO, ADO, Z-Score methods) and a <strong>heuristic rule-based classifier</strong> for event detection.</p>
+          <p>Synthesizable for both FPGA (targeting <strong>Zynq 7020</strong>) and ASIC (<strong>SkyWater 130nm</strong> via Librelane). Verified using both standard Verilog testbenches and Python-based Cocotb verification.</p>
+          <p><a href="https://github.com/GGChe/neural-time-series-segmentation" target="_blank">View on GitHub</a></p>
+          <div class="tags">
+            <span class="tag">Verilog</span>
+            <span class="tag">Spike Detection</span>
+            <span class="tag">Neural Implants</span>
+            <span class="tag">FPGA</span>
+            <span class="tag">SkyWater 130nm</span>
+            <span class="tag">Cocotb</span>
+            <span class="tag">Zynq 7020</span>
+          </div>
+        </div>
+      </section>
+      <footer class="modal-card-foot">
+        <button class="button is-success">Close</button>
+      </footer>
+    </div>
+  </div>
+
+  <!-- Project 6 Modal: Non-Linear Signal Operators -->
+  <div id="project-6-modal" class="modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+      <header class="modal-card-head">
+        <p class="modal-card-title">Non-Linear Signal Operators</p>
+        <button class="delete" aria-label="close"></button>
+      </header>
+      <section class="modal-card-body">
+        <div id="project-6-modal-carousel" class="carousel">
+          <figure class="image is-4by3 carousel-cell">
+            <img src="img/portfolio/operators.svg">
+          </figure>
+          <figure class="image is-4by3 carousel-cell">
+            <img src="img/portfolio/operators_rtl.png">
+          </figure>
+          <figure class="image is-4by3 carousel-cell">
+            <img src="img/portfolio/operators_asic.png">
+          </figure>
+        </div>
+        <div class="content">
+          <p>RTL implementations and verification suite for non-linear signal processing operators &mdash; TKEO, ED, ASO, and ADO &mdash; designed for SNR enhancement of noisy signals such as Local Field Potential (LFP) and EEG recordings.</p>
+          <p>Unlike linear filters, these operators use <strong>non-linear transformations</strong> to emphasize transients, track instantaneous energy, and detect spikes, making them ideal for <strong>real-time neuromorphic sensing</strong> and low-power VLSI feature extraction.</p>
+          <p>Features a <strong>parallel architecture</strong> for simultaneous processing, fully pipelined RTL optimized for high-frequency FPGA/ASIC synthesis, and configurable bit-widths with Q-format support. Includes ASIC synthesis via Librelane targeting SkyWater 130nm.</p>
+          <p><a href="https://github.com/GGChe/non-linear-signal-operators" target="_blank">View on GitHub</a></p>
+          <div class="tags">
+            <span class="tag">Verilog</span>
+            <span class="tag">TKEO</span>
+            <span class="tag">DSP</span>
+            <span class="tag">Neuromorphic</span>
+            <span class="tag">SkyWater 130nm</span>
+            <span class="tag">Cocotb</span>
+            <span class="tag">FPGA</span>
           </div>
         </div>
       </section>
