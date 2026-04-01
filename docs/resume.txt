@@ -1,0 +1,117 @@
+================================================================================
+                         GABRIEL GALEOTE-CHECA, Ph.D.
+================================================================================
+
+  Senior Signal Processing & Algorithms Engineer
+  Seville, Spain
+  Email: ggaleote@ieee.org
+  LinkedIn: linkedin.com/in/ggche
+  GitHub: github.com/GGChe
+  ORCID: 0000-0002-8605-5920
+
+================================================================================
+  EXPERIENCE
+================================================================================
+
+  ANALOG DEVICES INC. — Norwood, MA / Valencia, Spain
+  Senior Signal Processing and Algorithms Engineer (Medical Products)
+  October 2022 – Present
+
+    - Development of signal processing algorithms and architectures for
+      diagnosis of pathologies in ECG signals for on-device ambulatory
+      monitoring devices.
+    - Conceptualization, design, development, and integration of algorithms
+      on ECG medical devices for low-power critical applications.
+    - Implementation of signal conditioning and curation steps for machine
+      learning algorithms on high-performance cloud computing.
+    - Analysis of product requirements and specifications in compliance with
+      IEC/ISO medical device regulations and standards for FDA submissions.
+    - Implementation of high-performance algorithms for embedded
+      microcontrollers using ARM Cortex-M4, Cortex-M7, and Cortex-M33.
+    - CI/CD using Jenkins, GitLab, and pytest.
+
+  IMPERIAL COLLEGE LONDON — London, U.K.
+  Visiting Researcher
+  November 2024 – December 2024
+
+    - Design, synthesis, RTL analysis, and verification of algorithm IPs
+      in Cadence Virtuoso, Genus, and Xilinx Vivado, Vitis.
+    - Collaborated on the design of neural interfaces and implantable systems.
+
+  INSTITUTO DE MICROELECTRÓNICA DE SEVILLA — Seville, Spain
+  Researcher (Neuromorphic Computing Group)
+  September 2020 – February 2021
+
+    - HERMES FET-PROACT European project: designing and testing ICs for
+      brain bioimplantable devices.
+    - Digital signal processing architectures (Python/C++) for MEA-based
+      intracortical EEG using DSP processors and FPGAs.
+    - Mixed-signal IC design in VHDL and Verilog.
+    - Zynq 7020 SoC for FPGA verification and functional test preparation.
+
+  POLYTECHNIC UNIVERSITY OF MADRID — Madrid, Spain
+  Research Assistant
+  January 2020 – September 2020
+
+    - Management of European project proposals and electronic schematics.
+    - Developed IoT/WoT architectures on STM32 Cortex-M4 and Raspberry Pi.
+
+  UNIVERSITY OF GLASGOW — Glasgow, United Kingdom
+  Research Scholar (Microelectronics Lab — MeLab)
+  February 2019 – December 2019
+
+    - Designed and fabricated bioelectronic brain implantable device for
+      treating epilepsy (FET-Proact HERMES European project).
+    - Published 2 conference papers and 1 journal paper (Advanced Science).
+    - RF electromagnetic wireless power transfer systems using HFSS and EAGLE.
+    - Fabricated flexible circuits on DuPont Pyralux AP8535R.
+
+================================================================================
+  EDUCATION
+================================================================================
+
+  Ph.D. in Physical Sciences and Technology, Microelectronics
+  Instituto de Microelectrónica de Sevilla — September 2020 – March 2026
+
+  MSc in Mechatronics, Electronics Engineering
+  University of Glasgow — January 2019 – January 2020
+
+  International Scholarship (GPA: 4.00/4.00)
+  Incheon National University — February 2018 – July 2018
+
+  BSc in Biomedical Engineering (GPA: 3.23/4.00)
+  Universidad de Málaga — September 2013 – July 2018
+
+================================================================================
+  SELECTED PUBLICATIONS
+================================================================================
+
+  Journal Articles:
+    [1] Galeote-Checa, G. et al. (2026). Hardware Implementation of a
+        Real-Time Adaptive Time-Series Segmentation Algorithm for
+        Intracortical Implants. IEEE TBioCAS.
+    [2] Galeote-Checa, G. et al. (2025). Time series segmentation for
+        recognition of epileptiform patterns. PLOS ONE.
+    [3] McGlynn, E. ... Galeote-Checa, G. et al. (2021). The Future of
+        Neuroscience: Flexible and Wireless Implantable Neural Electronics.
+        Advanced Science.
+
+  Conference Papers:
+    [1] Galeote-Checa, G. (2025). ECG Signal Quality Assessment for QRS
+        detectability. IEEE EMBC 2025.
+    [2] Galeote-Checa, G. et al. (2025). Real-Time Seizure Detection in
+        MEA based on Z-Test Spike Detection. IEEE ISCAS 2025.
+    [3] Galeote-Checa, G. et al. (2021). Baseline Features Extraction from
+        MEA Recordings. IEEE COINS 2021.
+    [4] Galeote-Checa, G. et al. (2020). Wirelessly Powered and Modular
+        Flexible Implantable Device. IEEE ICECS 2020.
+    [5] Galeote Checa, G. et al. (2019). Flexible Wirelessly Powered
+        Implantable Device. IEEE ICECS 2019.
+
+================================================================================
+  MEMBERSHIP
+================================================================================
+
+  IEEE Member
+
+================================================================================

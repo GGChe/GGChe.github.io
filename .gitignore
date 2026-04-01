@@ -1,2 +1,11 @@
+# Build output
 _site/
+
+# Node modules (for webpack dev)
+src/node_modules/
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
 
